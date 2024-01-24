@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c7c7c7;
+}
+
+header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #3983b1;
+    font-weight: bold;
+    font-family: Proxima Nova, sans-serif;
+}
+
+main {
+    padding: 50px 20px;
+}
+
+.container {
+    font-family: Proxima Nova, sans-serif;
+    text-align: center;
+    color: #3983b1;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    display: none;
+    padding: 40px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+section:target {
+    display: block;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.logo {
+    text-align: center;
+    padding: 20px 0;
+}
+
+@media (max-width: 768px)
+.logo img {
+    max-width: 300px;
+    height: auto;
+}
+.photos {
+    text-align: left;
+    padding: 20px 0;
+}
+
+.photos {
+    max-width: 300px;
+    height: auto;
+}
+
+.flower {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.flower img {
+    max-width: 300px;
+    height: auto;
+}
