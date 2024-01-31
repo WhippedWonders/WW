@@ -1,1 +1,0 @@
-Immerse yourself in a world of delightful scents, from refreshing bursts of citrus to soothing floral notes. Our whipped soaps not only nourish your skin but also uplift your spirit, transforming your daily shower routine into a blissful experience!
